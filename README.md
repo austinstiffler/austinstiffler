@@ -1,8 +1,6 @@
 ### Hi there, I'm Austin 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-![Security+](C:\Users\austi\Desktop\sec+.png)
-
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=austinstiffler&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=austinstiffler&langs_count=5&theme=tokyonight)]()
 <!--
