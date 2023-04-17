@@ -1,10 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
-<img src="https://github.com/austinstiffler/Test/blob/main/subs.jpg" width=150>
-<img src="https://github.com/austinstiffler/Test/blob/main/sec%2B.png" width=150>
-<img src="https://github.com/austinstiffler/Test/blob/main/a%2B.png" width=150>
-
-
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=austinstiffler&langs_count=5&theme=tokyonight)]()
 <!--
 **austinstiffler/austinstiffler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
