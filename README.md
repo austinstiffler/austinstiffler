@@ -3,8 +3,7 @@
 <img src="https://github.com/austinstiffler/Test/blob/main/subs.jpg" width=150>
 <img src="https://github.com/austinstiffler/Test/blob/main/sec%2B.png" width=150>
 <img src="https://github.com/austinstiffler/Test/blob/main/a%2B.png" width=150>
-<img src="https://github.com/austinstiffler/Test/blob/main/azfundamentals.png" width=150>
-<img src"https://github.com/austinstiffler/Test/blob/main/mtasoftdevfund.png" width=150>
+
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=austinstiffler&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=austinstiffler&langs_count=5&theme=tokyonight)]()
