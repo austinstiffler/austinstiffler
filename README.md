@@ -1,4 +1,3 @@
-### Hi there, I'm Austin 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <img src="https://github.com/austinstiffler/Test/blob/main/subs.jpg" width=150>
